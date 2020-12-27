@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         else {
             addr = editText.getText().toString();
             new DownloadImageTask((ImageView) findViewById(R.id.imageView)).execute(addr);
+            
         }
     }
 }
