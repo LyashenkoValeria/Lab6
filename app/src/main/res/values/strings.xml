@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="download">Download</string>
+    <string name="error_mes">Sorry, image not loaded. Try again</string>
+    <string name="enter_your_url">Enter your URL</string>
+    <string name="clear">Clear</string>
+</resources>

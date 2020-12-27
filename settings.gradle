@@ -1,0 +1,5 @@
+include ':l6task4'
+include ':task4'
+include ':task3'
+include ':app'
+rootProject.name = "Lab6"
